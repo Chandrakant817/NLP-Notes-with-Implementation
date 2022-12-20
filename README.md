@@ -1,7 +1,8 @@
 # NLP-Notes-with-Preprocessing-Techniques
-### NLP Hand Written Notes
 
 ![image](https://user-images.githubusercontent.com/69152112/208304449-c658331b-0876-4524-a644-f0fe7989306e.png)
+
+## NLP Hand Written Notes
 
 ### Topics Covered
 
